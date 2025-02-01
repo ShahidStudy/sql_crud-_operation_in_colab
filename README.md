@@ -10,7 +10,7 @@ This repo contains all the python tutorial files
 
 https://github.com/ShahidStudy/sql_crud-_operation_in_colab
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShahidStudy/sql_crud_operation_in_colab_/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShahidStudy/sql_crud_operation_in_colab/main)
 [![Language:python](https://img.shields.io/github/languages/top/shahid-coder/python-colab)](https://python.org)
 [![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/python-colab)](https://github.com/shahid-coder/shahid-flappy-bird/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/python-colab)](https://github.com/shahid-coder/shahid-flappy-bird/graphs/contributors)
